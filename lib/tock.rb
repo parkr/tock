@@ -1,0 +1,4 @@
+class Tock
+  VERSION = "0.1.0"
+  # TODO: IMPLEMENT ALL THE THINGS
+end
